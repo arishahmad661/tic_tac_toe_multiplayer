@@ -4,7 +4,7 @@ Welcome to the Tic Tac Toe Multiplayer App! This Flutter-based application allow
 
 ## Features
 <!-- **Authentication:** Firebase authentication services are utilized for secure and easy user authentication.-->
-- **Online and Offline Play:** Users can choose to play against friends online or against AI offline, offering versatility in gameplay.
+- **Online and Offline Play:** Users can choose to play against friends online or offline, offering versatility in gameplay.
 - **Real-time Multiplayer:** Real-time multiplayer functionality is achieved using Socket.IO and Node.js, enabling players to compete with each other seamlessly.
 - **Data Storage:** Room data, including game progress and player information, is stored in MongoDB, ensuring data integrity and persistence.
 - **State Management:** GetX is used for efficient state management, handling game state, wins, and draws effectively.
