@@ -15,7 +15,7 @@ var io = require('socket.io')(server);
 app.use(express.json());
 
 
-const DB = "mongodb+srv://arishahmad888:qYqNfB1BEBX9oOuU@cluster0.phubssn.mongodb.net/?retryWrites=true&w=majority";
+const DB = "ADD_YOUR_MONGODB_SERVER_HERE";
 let room = new Room(); //instance of room class
 
 io.on("connection", (socket) => {
