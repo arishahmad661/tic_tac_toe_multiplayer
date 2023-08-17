@@ -52,12 +52,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push the branch: `git push origin feature-new-feature`
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to us at your-email@example.com.
 
 Happy gaming!
