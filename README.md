@@ -41,8 +41,6 @@ Follow these steps to set up and run the Tic Tac Toe Multiplayer App locally:
 ``flutter run``
 
 
-## Screenshots
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
